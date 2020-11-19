@@ -1,5 +1,5 @@
 import React from 'react';
-import {Card,CardContent, Typography, Grid, StylesProvider } from '@material-ui/core';
+import {Card,CardContent, Typography, Grid} from '@material-ui/core';
 import styles from './Cards.module.css' ;
 import CountUP from 'react-countup';
 // Purpose of cx is to bind the className of cards with different styles 
